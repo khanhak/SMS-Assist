@@ -14,10 +14,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">SMS-Assist</h3>
 
   <p align="center">
-    project_description
+    This project allows someone in Washington, DC to text a number and get texted back a list of nearby homeless shelters.
     <br />
     <a href="https://github.com/khanhak/SMS-Assist"><strong>Explore the docs »</strong></a>
     <br />
