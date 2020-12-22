@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][https://opensource.org/licenses/MIT]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/haneef-a-khan/]
+[![Linkedin][linkedin-shield]][https://www.linkedin.com/in/haneef-a-khan/]
 
 
 
