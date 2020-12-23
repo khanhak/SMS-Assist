@@ -130,7 +130,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Haneef Khan - khanhak@umich.edu
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/khanhak/SMS-Assist)
+Project Link: [https://github.com/khanhak/sms-assist](https://github.com/khanhak/SMS-Assist)
 
 
 
